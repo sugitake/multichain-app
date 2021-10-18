@@ -33,5 +33,5 @@ voter_address="1MgT29yYwNvMCxoLNjeC7adDrc2G16qfqjYg7q"
 candidate_address="1KskJXTqNtsE4sLP5maQ6DJvTFYHqLn9fkPZY8"
 
 vote(voter_address, candidate_address, rpc_user, rpc_pass)
-viewVote(voter_address)
+viewVote(voter_address, rpc_user, rpc_pass)
 
